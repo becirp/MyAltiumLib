@@ -1,5 +1,3 @@
-# MyAltiumLib
-
 ## My Altium Custom Component Library
 
 ### V1.0.
