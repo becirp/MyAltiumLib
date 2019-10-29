@@ -1,5 +1,4 @@
-## My Altium Custom Component Library
-
-### V1.0.
-
-Added new connectors with polarisation pin.
+Altium Custom Component Library
+===============================
+#Release V1.0
+[Integrated library](Project Outputs for My Library\My Library.IntLib)
