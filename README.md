@@ -1,6 +1,5 @@
 Altium Custom Component Library
 ===============================
+Get latest version of library from the link below:
 
-[Integrated library](../../releases/latest)
-
-This is a custom component library.
+[Download](../../releases/latest)
